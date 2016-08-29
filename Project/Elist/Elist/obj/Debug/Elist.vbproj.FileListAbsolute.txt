@@ -1,0 +1,46 @@
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\bin\Debug\Elist.exe.config
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\bin\Debug\Elist.exe
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\bin\Debug\Elist.pdb
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\bin\Debug\Elist.xml
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.Form1.resources
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.Resources.resources
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.vbproj.GenerateResource.Cache
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.exe
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.xml
+C:\Users\Firman Nizammudin\AppData\Local\Temporary Projects\Elist\obj\Debug\Elist.pdb
+D:\Belajar\VB NET\2\TA\Elist\Elist\bin\Debug\Elist.exe.config
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.exe
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.xml
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.pdb
+D:\Belajar\VB NET\2\TA\Elist\Elist\bin\Debug\Elist.exe
+D:\Belajar\VB NET\2\TA\Elist\Elist\bin\Debug\Elist.pdb
+D:\Belajar\VB NET\2\TA\Elist\Elist\bin\Debug\Elist.xml
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Resources.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.vbproj.GenerateResource.Cache
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Form_Splash.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Form_Main.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_New_project.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_Open_Project.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_About.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Form_Task.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_New_Task.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_Edit_Task.resources
+D:\Belajar\VB NET\2\TA\Elist\Elist\obj\Debug\Elist.Dialog_Edit_Project.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\bin\Debug\Elist.exe.config
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.exe
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.xml
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.pdb
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\bin\Debug\Elist.exe
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\bin\Debug\Elist.pdb
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\bin\Debug\Elist.xml
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_Edit_Project.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_Edit_Task.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_New_project.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_New_Task.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_Open_Project.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Dialog_About.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Form_Splash.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Form_Main.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Form_Task.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.Resources.resources
+D:\Final Tasks\SMK\VB .Net\TA\Elist\Elist\obj\Debug\Elist.vbproj.GenerateResource.Cache
